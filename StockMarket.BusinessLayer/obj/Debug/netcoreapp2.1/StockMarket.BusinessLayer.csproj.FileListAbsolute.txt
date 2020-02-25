@@ -1,0 +1,12 @@
+E:\Shilpa\StockMarket\Code\StockMarket .netCore\StockMarket.BusinessLayer\obj\Debug\netcoreapp2.1\StockMarket.BusinessLayer.csprojAssemblyReference.cache
+E:\Shilpa\StockMarket\Code\StockMarket .netCore\StockMarket.BusinessLayer\obj\Debug\netcoreapp2.1\StockMarket.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Shilpa\StockMarket\Code\StockMarket .netCore\StockMarket.BusinessLayer\obj\Debug\netcoreapp2.1\StockMarket.BusinessLayer.AssemblyInfoInputs.cache
+E:\Shilpa\StockMarket\Code\StockMarket .netCore\StockMarket.BusinessLayer\obj\Debug\netcoreapp2.1\StockMarket.BusinessLayer.AssemblyInfo.cs
+E:\Shilpa\StockMarket\Code\StockMarket .netCore\StockMarket.BusinessLayer\bin\Debug\netcoreapp2.1\StockMarket.BusinessLayer.deps.json
+E:\Shilpa\StockMarket\Code\StockMarket .netCore\StockMarket.BusinessLayer\bin\Debug\netcoreapp2.1\StockMarket.BusinessLayer.dll
+E:\Shilpa\StockMarket\Code\StockMarket .netCore\StockMarket.BusinessLayer\bin\Debug\netcoreapp2.1\StockMarket.BusinessLayer.pdb
+E:\Shilpa\StockMarket\Code\StockMarket .netCore\StockMarket.BusinessLayer\bin\Debug\netcoreapp2.1\StockMarket.Entities.dll
+E:\Shilpa\StockMarket\Code\StockMarket .netCore\StockMarket.BusinessLayer\bin\Debug\netcoreapp2.1\StockMarket.Entities.pdb
+E:\Shilpa\StockMarket\Code\StockMarket .netCore\StockMarket.BusinessLayer\obj\Debug\netcoreapp2.1\StockMarket.BusinessLayer.csproj.CopyComplete
+E:\Shilpa\StockMarket\Code\StockMarket .netCore\StockMarket.BusinessLayer\obj\Debug\netcoreapp2.1\StockMarket.BusinessLayer.dll
+E:\Shilpa\StockMarket\Code\StockMarket .netCore\StockMarket.BusinessLayer\obj\Debug\netcoreapp2.1\StockMarket.BusinessLayer.pdb

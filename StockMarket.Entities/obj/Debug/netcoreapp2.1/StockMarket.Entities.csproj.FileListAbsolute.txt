@@ -1,0 +1,9 @@
+E:\Shilpa\StockMarket\Code\StockMarket .netCore\StockMarket.Entities\bin\Debug\netcoreapp2.1\StockMarket.Entities.deps.json
+E:\Shilpa\StockMarket\Code\StockMarket .netCore\StockMarket.Entities\bin\Debug\netcoreapp2.1\StockMarket.Entities.dll
+E:\Shilpa\StockMarket\Code\StockMarket .netCore\StockMarket.Entities\bin\Debug\netcoreapp2.1\StockMarket.Entities.pdb
+E:\Shilpa\StockMarket\Code\StockMarket .netCore\StockMarket.Entities\obj\Debug\netcoreapp2.1\StockMarket.Entities.csprojAssemblyReference.cache
+E:\Shilpa\StockMarket\Code\StockMarket .netCore\StockMarket.Entities\obj\Debug\netcoreapp2.1\StockMarket.Entities.csproj.CoreCompileInputs.cache
+E:\Shilpa\StockMarket\Code\StockMarket .netCore\StockMarket.Entities\obj\Debug\netcoreapp2.1\StockMarket.Entities.AssemblyInfoInputs.cache
+E:\Shilpa\StockMarket\Code\StockMarket .netCore\StockMarket.Entities\obj\Debug\netcoreapp2.1\StockMarket.Entities.AssemblyInfo.cs
+E:\Shilpa\StockMarket\Code\StockMarket .netCore\StockMarket.Entities\obj\Debug\netcoreapp2.1\StockMarket.Entities.dll
+E:\Shilpa\StockMarket\Code\StockMarket .netCore\StockMarket.Entities\obj\Debug\netcoreapp2.1\StockMarket.Entities.pdb
